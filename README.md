@@ -1,6 +1,6 @@
 # Welcome to Crypto Website 
 
-
+This project aims to provide an interactive and informative platform for individuals interested in cryptocurrencies. By leveraging React.js and integrating real-time data, the website ensures that users have access to the most relevant information to make informed decisions in the volatile cryptocurrency market.
 # Files
 
 UPDATE SOON
